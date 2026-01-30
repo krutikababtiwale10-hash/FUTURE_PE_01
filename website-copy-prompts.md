@@ -1,5 +1,11 @@
 # Task 1 – AI Website Copy Generator
 
+## Project Overview
+
+This project demonstrates how structured prompt engineering can be used to generate high-quality website content using AI. 
+
+The goal was to create homepage content, service descriptions, and persuasive call-to-action lines for a local beauty salon. Prompt strategies were used to control tone, structure, and output quality. A bonus variation was created to test tone shifting from friendly to luxury branding.
+
 ## Business Type:
 Beauty Salon – Glow Studio (Mumbai)
 
